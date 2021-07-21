@@ -1,0 +1,35 @@
+{
+    "name": "mi-extension",
+    "displayName": "mi-extension",
+    "description": "it's a custom dark theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Extension CodiGo",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Extension CodiGo-color-theme.json"
+            }
+        ]
+    },
+    "icon": "icons/codigo-dark.png",
+    "author": {
+        "name": "Iván Rodriíguez",
+        "email": "Onlyhal@msn.com",
+        "url": "www.linkedin.com/in/ivan-rodriguez-3270671a4"
+    },
+    "repository": {
+        "url": "git remote add origin https://github.com/123porIvan/theme-code-vs.git",
+        "type": "git"
+    },
+    "dependencies": {
+        "vsce": "^1.96.1"
+    },
+    "publisher": "codigo-tecsup"
+}
