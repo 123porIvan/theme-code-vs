@@ -622,7 +622,7 @@
 				"markup.table"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#EEFFFF" // Pepito
 			}
 		}
 	]
