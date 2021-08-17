@@ -5,7 +5,7 @@
 		"editor.background": "#dddddd", //Ivan hizo el cambio 
 		"editor.foreground": "#333333",
 		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"sideBarTitle.foreground": "#bbbbbb" // menu 
 	},
 	"tokenColors": [
 		{
