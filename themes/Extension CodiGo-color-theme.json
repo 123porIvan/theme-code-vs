@@ -2,7 +2,7 @@
 	"name": "Extension CodiGo",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#eeeee",
+		"editor.background": "#dddddd", //Ivan hizo el cambio 
 		"editor.foreground": "#333333",
 		"activityBarBadge.background": "#007acc",
 		"sideBarTitle.foreground": "#bbbbbb"
